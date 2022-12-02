@@ -1,0 +1,16 @@
+C:\Users\guido\OneDrive\Desktop\UAI\Segundo Cuatrimestre\PROGRAMACION I\ProyectoFinalProgramacion1\bin\Debug\ProyectoFinalProgramacion1.exe.config
+C:\Users\guido\OneDrive\Desktop\UAI\Segundo Cuatrimestre\PROGRAMACION I\ProyectoFinalProgramacion1\bin\Debug\ProyectoFinalProgramacion1.exe
+C:\Users\guido\OneDrive\Desktop\UAI\Segundo Cuatrimestre\PROGRAMACION I\ProyectoFinalProgramacion1\bin\Debug\ProyectoFinalProgramacion1.pdb
+C:\Users\guido\OneDrive\Desktop\UAI\Segundo Cuatrimestre\PROGRAMACION I\ProyectoFinalProgramacion1\obj\Debug\ProyectoFinalProgramacion1.csproj.AssemblyReference.cache
+C:\Users\guido\OneDrive\Desktop\UAI\Segundo Cuatrimestre\PROGRAMACION I\ProyectoFinalProgramacion1\obj\Debug\ProyectoFinalProgramacion1.csproj.SuggestedBindingRedirects.cache
+C:\Users\guido\OneDrive\Desktop\UAI\Segundo Cuatrimestre\PROGRAMACION I\ProyectoFinalProgramacion1\obj\Debug\ProyectoFinalProgramacion1.Form1.resources
+C:\Users\guido\OneDrive\Desktop\UAI\Segundo Cuatrimestre\PROGRAMACION I\ProyectoFinalProgramacion1\obj\Debug\ProyectoFinalProgramacion1.Properties.Resources.resources
+C:\Users\guido\OneDrive\Desktop\UAI\Segundo Cuatrimestre\PROGRAMACION I\ProyectoFinalProgramacion1\obj\Debug\ProyectoFinalProgramacion1.csproj.GenerateResource.cache
+C:\Users\guido\OneDrive\Desktop\UAI\Segundo Cuatrimestre\PROGRAMACION I\ProyectoFinalProgramacion1\obj\Debug\ProyectoFinalProgramacion1.csproj.CoreCompileInputs.cache
+C:\Users\guido\OneDrive\Desktop\UAI\Segundo Cuatrimestre\PROGRAMACION I\ProyectoFinalProgramacion1\obj\Debug\ProyectoFinalProgramacion1.exe
+C:\Users\guido\OneDrive\Desktop\UAI\Segundo Cuatrimestre\PROGRAMACION I\ProyectoFinalProgramacion1\obj\Debug\ProyectoFinalProgramacion1.pdb
+C:\Users\guido\OneDrive\Desktop\UAI\Segundo Cuatrimestre\PROGRAMACION I\ProyectoFinalProgramacion1\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\guido\OneDrive\Desktop\UAI\Segundo Cuatrimestre\PROGRAMACION I\ProyectoFinalProgramacion1\bin\Debug\itextsharp.dll
+C:\Users\guido\OneDrive\Desktop\UAI\Segundo Cuatrimestre\PROGRAMACION I\ProyectoFinalProgramacion1\bin\Debug\itextsharp.xmlworker.dll
+C:\Users\guido\OneDrive\Desktop\UAI\Segundo Cuatrimestre\PROGRAMACION I\ProyectoFinalProgramacion1\bin\Debug\itextsharp.xml
+C:\Users\guido\OneDrive\Desktop\UAI\Segundo Cuatrimestre\PROGRAMACION I\ProyectoFinalProgramacion1\obj\Debug\ProyectoFinalProgramacion1.csproj.CopyComplete
